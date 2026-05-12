@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+
+/* Odd numbered elements */
+.odd {
+  background-color: rgb(242, 156, 135);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+/* Second elements */
+#second {
+  color: rgb(98, 98, 240);
+  font-size: 36px;
+}
+
+/* Fourth elements */
+#fourth {
+  background-color: rgb(168, 235, 168);
+  font-weight: bold;
+}
+
+/* Same font size */
+.fontsize {
+  font-size: 24px;
+}
